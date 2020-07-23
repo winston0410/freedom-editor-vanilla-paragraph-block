@@ -11,7 +11,7 @@ const stringToHTML = (nodeString) => {
   return placeholder.content.firstElementChild
 }
 
-export {
+module.exports = {
   stringToHTML,
   getSavedData
 }

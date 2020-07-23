@@ -1,7 +1,7 @@
-import {
+const {
   getSavedData,
   stringToHTML
-} from './utilities/helper.js'
+} = require('./utilities/helper.js')
 
 class Paragraph {
   constructor (customOptions) {
@@ -46,6 +46,6 @@ class Paragraph {
   }
 };
 
-export {
+module.exports = {
   Paragraph
 }
