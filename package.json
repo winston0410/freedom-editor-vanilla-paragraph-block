@@ -1,6 +1,6 @@
 {
   "name": "@freedom-editor/vanilla-paragraph-block",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A paragraph block written in vanilla code for Freedom Editor.",
   "main": "./src/index.js",
   "scripts": {
